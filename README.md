@@ -1,6 +1,6 @@
-# SO
+# Prácticas Sistemas Opeartivos de Ingeniería Informática
 
-# P0
+## Nota
 
 La P0 está incompleta.
 
